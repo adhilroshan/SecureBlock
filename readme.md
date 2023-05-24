@@ -1,8 +1,11 @@
-## ECDSA Node
 
-This project is an example of using a client and server to facilitate transfers between different addresses. Since there is just a single server on the back-end handling transfers, this is clearly very centralized. We won't worry about distributed consensus for this project.
+## SecureBlock: Trust Through ECDSA Node
 
-However, something that we would like to incoporate is Public Key Cryptography. By using Elliptic Curve Digital Signatures we can make it so the server only allows transfers that have been signed for by the person who owns the associated address.
+SecureBlock is a project that combines the power of cryptography and blockchain technology. With an ECDSA Node at its core, SecureBlock facilitates secure and tamper-proof transactions between accounts. By leveraging the Elliptic Curve Digital Signature Algorithm (ECDSA), SecureBlock ensures the integrity and authenticity of each transaction, fostering a reliable and trustworthy environment.
+
+Through a user-friendly React front-end, SecureBlock enables seamless interaction with the network, allowing users to initiate transfers and manage their balances. While operating with a centralized server for learning purposes, SecureBlock offers valuable insights into the fundamentals of blockchain development.
+
+SecureBlock serves as a stepping stone for aspiring blockchain developers, offering hands-on experience and a deeper understanding of decentralized systems. By exploring the intricacies of transactions, digital signatures, and blockchains, SecureBlock equips users with the knowledge and skills to comprehend the transformative potential of blockchain technology.
 
 ### Video instructions
 For an overview of this project as well as getting started instructions, check out the following video:
